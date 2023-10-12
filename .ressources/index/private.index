@@ -28,6 +28,7 @@ gik-utils:_t4dModGikUtilsSilentFetch
 gik-utils:_t4dModGikUtilsSwitchToBranch
 gik-utils:_t4dModGikUtilsSync
 gik-utils:_t4dModGikUtilsTag
+gik-utils:_t4dModGikUtilsTree
 gik-utils:_t4dModGikUtilsUpdate
 _main_:_gik
 _main_:_gikDoc

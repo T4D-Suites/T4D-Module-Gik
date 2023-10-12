@@ -6,6 +6,7 @@ rebase
 ws
 sync
 shasync
+tree
 push
 fpull
 tag
